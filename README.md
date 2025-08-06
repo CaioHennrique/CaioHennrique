@@ -13,7 +13,7 @@
   <img width="10" />
 <img height="40" width="40" align ="center" alt="caio-javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">  
   <img width="10" />
-<img  height="40" width="40" align ="center" alt="caio-angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />         
+    
 </div>
 
 ##
