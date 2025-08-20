@@ -1,7 +1,7 @@
 ## Olá! Eu sou Caio Henrique ✋ 
 
 - 🌱 Eu estou constantemente aprendendo front-end
-- 📓 Aprendendo Angular
+- 📓 Aprendendo react com styled-components
   
 ##
  
